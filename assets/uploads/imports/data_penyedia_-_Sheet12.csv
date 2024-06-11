@@ -1,0 +1,3 @@
+nama_penyedia,nama_bank,kode_kegiatan,no_pesanan,kode_rekening,jumlah_pengajuan,potongan_pph,biaya_kirim_uang,jumlah_diterima,keterangan,jenis_spj
+ct koalisi,BCA,KEG232424,NO322313,1.23.231.112,1000000,22%,10000,8900000,OKE,SPJ-KIRIM 
+ct koae,BCA,KEG232424,NO322313,1.23.231.112,1000000,22%,10000,8900000,OKE,SPJ-KIRIM 
