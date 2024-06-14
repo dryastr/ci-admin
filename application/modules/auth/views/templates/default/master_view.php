@@ -9,7 +9,7 @@
 	</script>
 </head>
 <body>
-<div class="se-pre-con"></div>
+<div class=""></div>
 <div class="container-fluid">
 	<div class="row">
 		{{CONTENT}}
@@ -33,7 +33,7 @@
 		top: 0;
 	}
 
-	.se-pre-con {
+	. {
 		position: fixed;
 		left: 0px;
 		top: 0px;
@@ -48,6 +48,6 @@
 	// Wait for window load
 	$(window).load(function () {
 		// Animate loader off screen
-		$(".se-pre-con").fadeOut("slow");
+		$(".").fadeOut("slow");
 	});
 </script>

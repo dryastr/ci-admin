@@ -1,6 +1,6 @@
 <?php foreach ($single_users as $key => $value) {
     $id = $value['user_id'];
-}
+}   
 ?>
 <form id='assign_user_role' action="" enctype="multipart/form-data" method="post"
       accept-charset="utf-8">
